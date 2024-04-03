@@ -3,6 +3,7 @@
 	x: -6.0d,
 	y: -9.0d,
 	description: "Kill the ender dragon",
+	can_repeat: true,
 	dependencies: [
 		"a1248466"
 	],
@@ -15,12 +16,6 @@
 	rewards: [{
 		uid: "4bb2ce38",
 		type: "item",
-		item: {
-			id: "ftbquests:lootcrate",
-			tag: {
-				type: "rare_loot"
-			}
-		},
-		count: 5
+		item: "minecraft:dragon_egg"
 	}]
 }

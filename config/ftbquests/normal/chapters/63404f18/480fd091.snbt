@@ -2,6 +2,7 @@
 	x: -3.0d,
 	y: 0.0d,
 	shape: "hexagon",
+	description: "This and the following quests are optional if you don't want to 100% the pack.",
 	text: [
 		"The mobs, which are spawned by the cursed earth depend on the biome it's placed in.",
 		"The Antimatter Dimension will contain most normal hostile mobs.",
@@ -12,6 +13,7 @@
 	dependencies: [
 		"717e9a00"
 	],
+	optional: true,
 	tasks: [{
 		uid: "1566a29e",
 		type: "checkmark",

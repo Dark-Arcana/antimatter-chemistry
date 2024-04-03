@@ -1,5 +1,63 @@
 =-= Changelog =-=
 
+v1.4.5 - 2024-04-03
+===
+
+Added Mods:
+- Alfheim
+- Deep Mob Evolution
+- Entity Culling
+- Fixeroo
+- IFPatcher
+- JEI Utilities
+- Keybind Description Fix
+- Lazy AE2 Patch
+- Modern Splash
+- Neeve's AE2: Extended Life Additions
+- Nothrium
+- Particle Culling
+- Red Core
+- Render Lib
+- The One Probe Community Edition
+- Valkyrie
+- VintageFix
+
+Updated Mods:
+- AE2 Unofficial Extended Life
+- Avaritiaddons
+- CensoredASM
+- ConfigAnytime
+- Controlling
+- Corail Tombstone
+- CraftTweaker
+- Earthworks Unofficial Extended Life
+- Ender Storage continuation
+- Exchangers
+- Had Enough Items
+- Inventory Bogo Sorter
+- JourneyMap
+- MixinBooter
+- ModularUI
+- Not Enough Energistics
+- SerializationIsBad
+- Sledgehammer
+- Universal Tweaks
+
+Removed Mods:
+- Clumps
+- Deep Mob Learning
+- FoamFix
+- Splash Logo Color Fix
+- Startup Timer
+- The One Probe
+
+Changes/Bugfixes:
+- IF Plant Gatherer collecting infinite crops without breaking them
+- improved the overall performance by adopting Opticraft
+- fixed all crashes on startup caused by an outdated SerializationIsBad version
+- made the "Free the End" quest repeatable
+- marked the Terraformer quest as optional
+
 v1.4.4 - 2023-08-02
 ===
 
