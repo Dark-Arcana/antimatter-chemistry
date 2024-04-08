@@ -1,5 +1,32 @@
 =-= Changelog =-=
 
+v1.4.6 - 2024-04-08
+===
+
+Added Mods:
+- Simple Harvest
+- Sound Filters Continued
+- Void Island Control Inverted Edition
+- YNet
+
+Updated Mods:
+- IFPatcher
+- Not Enough Energistics
+- Particle Culling
+- RenderLib
+- Valkyrie
+
+Removed Mods:
+- Better FPS
+- RandomPatches
+- Simple Harvest
+- Void Island Control
+- XNet
+
+Changes/Bugfixes:
+- fixed the infinite Plant Interactor bug
+- fixed the server pack export
+
 v1.4.5 - 2024-04-03
 ===
 

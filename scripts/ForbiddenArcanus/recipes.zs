@@ -18,6 +18,10 @@ import scripts.functions.getBucket;
 import scripts.functions.getBucketDefault;
 import scripts.functions.findFirstItemFromMod;
 
+import scripts.functions.disable;
+
+disable(<forbidden_arcanus:golden_orchid_seeds>);
+
 var mapRecipe as IIngredient[][][][IItemStack] = {
     <forbidden_arcanus:rune> : [
         [
