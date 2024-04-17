@@ -23,3 +23,5 @@ import mods.tconstruct.Melting;
 // Melting.addRecipe(ILiquidStack output, IIngredient input, @Optional int temp);
 
 Melting.addRecipe(<liquid:quartz> * 144, <minecraft:quartz>);
+Melting.addRecipe(<liquid:blood> * 360, <tp:flesh_block>);
+

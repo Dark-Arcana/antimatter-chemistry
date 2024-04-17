@@ -1,0 +1,18 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	text: [
+		"Don't want to build the reactor yourself? Use this handy builder, paste your blueprint and done!"
+	],
+	dependencies: [
+		"921e0d45"
+	],
+	optional: true,
+	tasks: [{
+		uid: "2f6c62e2",
+		type: "item",
+		items: [{
+			item: "reactorbuilder:reactorbuilder"
+		}]
+	}]
+}

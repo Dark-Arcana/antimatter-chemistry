@@ -1,3 +1,6 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "ferroboron_block": 1,
+    "tough_block": 0
+  }
 }

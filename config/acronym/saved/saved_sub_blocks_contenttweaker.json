@@ -1,3 +1,8 @@
 {
-  "savedSubBlockNames": {}
+  "savedSubBlockNames": {
+    "0": {
+      "0": "tough_block",
+      "1": "ferroboron_block"
+    }
+  }
 }

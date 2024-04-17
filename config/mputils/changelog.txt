@@ -1,5 +1,25 @@
 =-= Changelog =-=
 
+v1.4.7 - 2024-04-17
+===
+
+Added Mods:
+- Patchouli ROFL Edition
+
+Updated Mods:
+- CensoredASM
+- Sledgehammer
+- Void Island Control Inverted Edition
+
+Removed Mods:
+- Patchouli
+
+Changes/Bugfixes:
+- server crashes
+- added melting recipe for block of flesh
+- added missing NC blocks and implemented recipes for them
+- small tweaks to the quest book
+
 v1.4.6 - 2024-04-08
 ===
 

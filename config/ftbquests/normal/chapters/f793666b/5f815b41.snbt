@@ -1,0 +1,13 @@
+{
+	title: "NuclearCraft Fission Reactor Design Generator",
+	x: -5.0d,
+	y: -1.0d,
+	custom_click: "https://leu-235.com",
+	tasks: [{
+		uid: "670bc21d",
+		type: "item",
+		items: [{
+			item: "minecraft:book"
+		}]
+	}]
+}

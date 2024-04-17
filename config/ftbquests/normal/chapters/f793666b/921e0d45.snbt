@@ -4,11 +4,12 @@
 	shape: "circle",
 	description: "Craft a fission controller",
 	text: [
-		"This quest is OPTIONAL"
+		"Need help to figure out a layout? Check out this need site in the quest on the right."
 	],
 	dependencies: [
 		"c5270924"
 	],
+	optional: true,
 	tasks: [{
 		uid: "0df50c19",
 		type: "item",
