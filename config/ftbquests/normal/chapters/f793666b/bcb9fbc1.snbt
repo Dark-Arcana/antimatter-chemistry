@@ -1,0 +1,15 @@
+{
+	title: "Reactor Simulation",
+	x: -5.0d,
+	y: -1.0d,
+	text: [
+		"https://leu-235.com"
+	],
+	dependencies: [
+		"921e0d45"
+	],
+	tasks: [{
+		uid: "a0d84083",
+		type: "checkmark"
+	}]
+}

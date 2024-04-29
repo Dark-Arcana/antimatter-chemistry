@@ -35,6 +35,8 @@ recipes.addShapeless(<minecraft:clay_ball> * 4, [<minecraft:clay>]);
 recipes.addShapeless(<minecraft:clay>, [<deepmoblearning:living_matter_overworldian>,<minecraft:dirt>]);
 recipes.addShapeless(<minecraft:clay>, [<deepmoblearning:living_matter_overworldian>,<atum:fertile_soil_pile>]);
 recipes.addShapeless(<minecraft:blaze_rod>, [<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>]);
+recipes.addShapeless(<minecraft:netherrack> * 4, [<deepmoblearning:living_matter_hellish>,<minecraft:cobblestone>]);
+recipes.addShapeless(<minecraft:quartz>, [<deepmoblearning:living_matter_hellish>,<minecraft:dye:4>]);
 
 recipes.addShaped(<minecraft:dirt> * 8, [
     [<minecraft:stone>,<minecraft:stone>,<minecraft:stone>],
@@ -231,6 +233,28 @@ var mapRecipe as IIngredient[][][][IItemStack] = {
             [<minecraft:prismarine_shard>,<minecraft:egg>,<minecraft:prismarine_shard>]
         ]
     ],
+    <minecraft:spawn_egg>.withTag({EntityTag: {id: "thermalfoundation:blizz"}}) : [
+        [
+            [<minecraft:snowball>,<thermalfoundation:material:2049>,<minecraft:snowball>],
+            [<minecraft:snowball>,pyroDust,<minecraft:snowball>],
+            [<minecraft:snowball>,<minecraft:egg>,<minecraft:snowball>]
+        ]
+    ],
+    <minecraft:spawn_egg>.withTag({EntityTag: {id: "thermalfoundation:blitz"}}) : [
+        [
+            [<thermalfoundation:material:772>,<thermalfoundation:material:2051>,<thermalfoundation:material:772>],
+            [<thermalfoundation:material:772>,pyroDust,<thermalfoundation:material:772>],
+            [<thermalfoundation:material:772>,<minecraft:egg>,<thermalfoundation:material:772>]
+        ]
+    ],
+    <minecraft:spawn_egg>.withTag({EntityTag: {id: "thermalfoundation:basalz"}}) : [
+        [
+            [<thermalfoundation:material:770>,<thermalfoundation:material:2053>,<thermalfoundation:material:770>],
+            [<thermalfoundation:material:770>,pyroDust,<thermalfoundation:material:770>],
+            [<thermalfoundation:material:770>,<minecraft:egg>,<thermalfoundation:material:770>]
+        ]
+    ],
+
 };
 
 for output, listRecipe in mapRecipe {

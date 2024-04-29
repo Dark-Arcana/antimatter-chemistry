@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: -9.0d,
+	can_repeat: true,
+	dependencies: [
+		"f4acf2de"
+	],
+	optional: true,
+	tasks: [{
+		uid: "b9487a5a",
+		type: "kill",
+		title: "More Eggs? More Eggs!",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "36573b1e",
+		type: "item",
+		item: "minecraft:dragon_egg"
+	}]
+}

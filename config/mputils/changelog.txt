@@ -1,5 +1,18 @@
 =-= Changelog =-=
 
+v1.4.8 - 2024-04-30
+===
+
+Updated Mods:
+- Modern Splash
+- Sound Filters Continued
+
+Changes/Bugfixes:
+- fixed FTB Quests (I hate this mod)
+- added sulfur block for storage
+- added recipes for thermal foundation blaze variants spawn eggs
+- added a few more screenshots to the main menu
+
 v1.4.7 - 2024-04-17
 ===
 

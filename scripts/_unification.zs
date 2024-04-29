@@ -78,6 +78,7 @@ recipes.replaceAllOccurences(<minecraft:water_bucket>,inf_wb|wb);
 <ore:logWood>.remove(<atum:palm_log>);
 <ore:stone>.remove(<atum:limestone>);
 <ore:dyeBlack>.add(<thermalfoundation:material:769>);
+<ore:blockSulfur>.add(<contenttweaker:sulfur_block>);
 
 <ore:matterPristine>.addItems([
 	<deepmoblearning:pristine_matter_zombie>,

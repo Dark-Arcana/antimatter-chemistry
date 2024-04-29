@@ -4,4 +4,6 @@ item.contenttweaker.youtube.name=Youtube
 item.contenttweaker.twitter.name=Twitter
 item.contenttweaker.patreon.name=Patreon
 
+tile.contenttweaker.sulfur_block.name=Sulfur Block
+
 base.part.block=%s Block

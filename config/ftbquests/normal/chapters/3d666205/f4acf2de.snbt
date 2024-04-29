@@ -3,7 +3,6 @@
 	x: -6.0d,
 	y: -9.0d,
 	description: "Kill the ender dragon",
-	can_repeat: true,
 	dependencies: [
 		"a1248466"
 	],

@@ -31,3 +31,4 @@ function fixBlock(block as IItemStack, ingot as IItemStack) {
 
 fixBlock(<contenttweaker:sub_block_holder_0>,<nuclearcraft:alloy:1>);
 fixBlock(<contenttweaker:sub_block_holder_0:1>,<nuclearcraft:alloy:6>);
+fixBlock(<contenttweaker:sulfur_block>,findFirstItemFromMod("thermalfoundation","dust","sulfur"));
