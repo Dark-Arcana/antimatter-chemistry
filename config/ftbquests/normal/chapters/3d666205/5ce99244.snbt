@@ -2,7 +2,7 @@
 	title: "Wyvern Fusion Crafting",
 	x: 4.0d,
 	y: -9.0d,
-	description: "Create 7 wvyern fusion crafting injectors",
+	description: "Create 7 wyvern fusion crafting injectors",
 	dependencies: [
 		"fa60684e",
 		"03733258"
