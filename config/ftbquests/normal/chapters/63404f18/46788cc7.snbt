@@ -12,7 +12,7 @@
 			item: "thermalfoundation:material 1 160"
 		}],
 		count: 48L,
-		consume_items: true
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "cd40c08a",

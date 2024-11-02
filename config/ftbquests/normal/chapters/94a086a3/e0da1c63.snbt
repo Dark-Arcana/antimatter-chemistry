@@ -19,7 +19,7 @@
 			item: "atum:coin_dirty"
 		}],
 		count: 20L,
-		consume_items: true
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "e65b5873",

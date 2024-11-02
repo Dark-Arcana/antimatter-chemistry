@@ -1,7 +1,7 @@
 {
 	title: "Side Quests",
 	icon: "atum:idol_of_labor",
-	always_invisible: false,
+	always_invisible: 0b,
 	group: 0,
 	default_quest_shape: ""
 }

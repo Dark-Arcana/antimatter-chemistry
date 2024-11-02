@@ -198,7 +198,9 @@
                     "antimatter_chemistry:mainmenu/background/title_11.png",
                     "antimatter_chemistry:mainmenu/background/title_12.png",
                     "antimatter_chemistry:mainmenu/background/title_13.png",
-                    "antimatter_chemistry:mainmenu/background/title_14.png"
+                    "antimatter_chemistry:mainmenu/background/title_14.png",
+                    "antimatter_chemistry:mainmenu/background/title_15.png",
+                    "antimatter_chemistry:mainmenu/background/title_16.png"
                 ],
                 "displayDuration" : 60,
                 "fadeDuration" : 30

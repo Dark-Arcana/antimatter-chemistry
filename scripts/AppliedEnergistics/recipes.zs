@@ -19,6 +19,7 @@ import scripts.functions.getBucketDefault;
 import scripts.functions.findFirstItemFromMod;
 
 import mods.jei.JEI;
+import mods.thermalexpansion.Insolator;
 
 import scripts.functions.disable;
 
@@ -44,3 +45,7 @@ for output, listRecipe in mapRecipe {
         index += 1;
     }
 }
+
+Insolator.removeRecipe(<appliedenergistics2:crystal_seed>, <minecraft:glowstone_dust>);
+Insolator.removeRecipe(<appliedenergistics2:crystal_seed:600>, <minecraft:glowstone_dust>);
+Insolator.removeRecipe(<appliedenergistics2:crystal_seed:1200>, <minecraft:glowstone_dust>);

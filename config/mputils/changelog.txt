@@ -1,5 +1,50 @@
 =-= Changelog =-=
 
+v1.4.9 - 2024-11-02
+===
+
+Added Mods:
+- AE2 Crafting Tree - Legacy
+- Better Quest Pop-up
+- Flare
+- JEI Area Fixer
+- MiniEffects-Legacy Extended Life
+- NeverEnoughAnimation
+- Sound Physics Remixin
+- StellarCore
+
+Updated Mods:
+- AE2 Unofficial Extended Life
+- Alfheim Lighting Engine
+- Controlling
+- Corail Tombstone
+- CraftTweaker
+- Ender Storage continuation
+- Fixeroo
+- Had Enough Items
+- Inventory Bogo Sorter
+- MixinBooter
+- Neeve's AE2: Extended Life Additions
+- NuclearCraft
+- Particle Culling
+- RenderLib
+- Storage Drawers
+- The One Probe Community Edition
+- Universal Tweaks
+- VintageFix
+- YNet
+
+Removed Mods:
+- Sound Filters Continued (replaced by Sound Physics Remixin)
+- spark (replaced by Flare)
+
+Changes/Bugfixes:
+- added Dissolver recipes for lamps
+- added more screenshots to the main menu
+- enabled the creation of antimatter dimensions
+- fixed the duplicated light in the rare loot bag
+- removed the stupid AE2 seed in Insulator recipe
+
 v1.4.8 - 2024-04-30
 ===
 

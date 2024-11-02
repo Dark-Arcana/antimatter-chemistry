@@ -17,7 +17,7 @@
 			item: "atum:palm_log"
 		}],
 		count: 64L,
-		consume_items: true
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "cb9df968",

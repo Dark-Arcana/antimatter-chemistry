@@ -1,7 +1,7 @@
 {
 	title: "Akliz Server Hosting",
 	icon: "contenttweaker:akliz",
-	disable_toast: true,
+	disable_toast: 1b,
 	x: 4.0d,
 	y: -3.0d,
 	shape: "rsquare",

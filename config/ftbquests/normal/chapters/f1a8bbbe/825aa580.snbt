@@ -19,8 +19,8 @@
 			item: "alchemistry:evaporator"
 		}],
 		count: 4L,
-		consume_items: false,
-		ignore_damage: true,
+		consume_items: 0b,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}],
 	rewards: [{

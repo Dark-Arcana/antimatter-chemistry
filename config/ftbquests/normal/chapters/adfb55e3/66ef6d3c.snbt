@@ -45,14 +45,6 @@
 			item: "alchemistry:element 1 54"
 		}],
 		count: 64L
-	},
-	{
-		uid: "a1e5cd4f",
-		type: "item",
-		items: [{
-			item: "alchemistry:element 1 86"
-		}],
-		count: 64L
 	}],
 	rewards: [{
 		uid: "de1908df",

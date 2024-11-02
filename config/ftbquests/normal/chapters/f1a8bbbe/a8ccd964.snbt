@@ -1,7 +1,7 @@
 {
 	title: "Discord",
 	icon: "contenttweaker:discord",
-	disable_toast: true,
+	disable_toast: 1b,
 	x: 3.0d,
 	y: -3.0d,
 	shape: "rsquare",

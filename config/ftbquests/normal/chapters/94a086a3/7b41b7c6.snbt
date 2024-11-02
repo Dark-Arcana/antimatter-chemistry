@@ -17,7 +17,7 @@
 			item: "atum:dusty_bone"
 		}],
 		count: 64L,
-		consume_items: true
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "d0c9d3ae",

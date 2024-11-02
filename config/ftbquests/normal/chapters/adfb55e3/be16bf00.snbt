@@ -12,7 +12,7 @@
 		items: [{
 			item: "openblocks:glyph 1 76"
 		}],
-		consume_items: true
+		consume_items: 1b
 	},
 	{
 		uid: "5141ec5f",
@@ -20,7 +20,7 @@
 		items: [{
 			item: "openblocks:glyph 1 79"
 		}],
-		consume_items: true
+		consume_items: 1b
 	},
 	{
 		uid: "4e90dcc7",
@@ -28,7 +28,7 @@
 		items: [{
 			item: "openblocks:glyph 1 76"
 		}],
-		consume_items: true
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "229e3b74",

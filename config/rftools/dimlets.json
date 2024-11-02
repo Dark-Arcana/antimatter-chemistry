@@ -19,6 +19,16 @@
       "dimlet": false
     }
   },
+  {
+    "filter": {
+      "name": "concrete",
+      "type": "material"
+    },
+    "settings": {
+      "worldgen": true,
+      "dimlet": true
+    }
+  },
   "Everything below this line will be regenerated from defaults every time. Remove this line if you do not want that",
   {
     "filter": {
