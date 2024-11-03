@@ -30,5 +30,6 @@ manifest.json
 *.log
 *.old
 *.csv
+*.class
 worldSettings.cfg
 hei_bookmarks.ini
