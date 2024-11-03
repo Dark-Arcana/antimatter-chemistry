@@ -1,5 +1,14 @@
 =-= Changelog =-=
 
+1.4.10 - 2024-11-03
+===
+
+Updated Mods:
+- The One Probe Community Edition
+
+Changes/Bugfixes:
+- downgraded Ender Storage continuation to prevent console spam
+
 v1.4.9 - 2024-11-02
 ===
 
